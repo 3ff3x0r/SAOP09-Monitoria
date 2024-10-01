@@ -19,6 +19,6 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 ----
 | Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
 |------------------|-----------------------|----------------------|--------------------|
-|01/10/2024        | [Condicionais](https://colab.research.google.com/drive/1QTnEVBWCTw_gbGqgy9ZaE02IirbKN2Gz?usp=sharing)| [A ser disponibilizado]() | [Anime um personagem usando Scratch](https://scratch.mit.edu/projects/editor/?tutorial=all)|
+|01/10/2024        | [Condicionais](https://colab.research.google.com/drive/1QTnEVBWCTw_gbGqgy9ZaE02IirbKN2Gz?usp=sharing)| [Resolvido durante a monitoria](https://colab.research.google.com/drive/1DOtG52eB4cTTK9dQPkKuG7421rGGpI-Q?usp=sharing) | [Experimente animar uma figurinha usando Scratch](https://scratch.mit.edu/projects/editor/?tutorial=all)|
 
 
