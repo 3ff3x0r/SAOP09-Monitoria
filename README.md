@@ -21,6 +21,6 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 |------------------|-----------------------|----------------------|--------------------|
 |01/10/2024        | [Condicionais](https://colab.research.google.com/drive/1QTnEVBWCTw_gbGqgy9ZaE02IirbKN2Gz?usp=sharing)| [Resolvido durante a monitoria](https://colab.research.google.com/drive/1DOtG52eB4cTTK9dQPkKuG7421rGGpI-Q?usp=sharing) | [Experimente animar uma figurinha usando Scratch](https://scratch.mit.edu/projects/editor/?tutorial=all)|
 |08/10/2024        | [Loops e funções](https://colab.research.google.com/drive/1-LTYtZs7uSx2g9EH48OQHKcVx-rsodi0?usp=sharing)| [Resolvido durante a monitoria](https://colab.research.google.com/drive/1uT4f71uTPT726xYb-wZiv2HF1fHOBy-I?usp=sharing) | |
-|15/10/2024        | [Bibliotecas: NumPy Parte 1: Métodos](https://colab.research.google.com/drive/16uSXQqAI0sazEFw6Jj1a0ZU_1W2hpnB4)| [Resolvido](https://colab.research.google.com/drive/1hSgOuL-UkAT5FNlRm86eCy8HbrBjWuzV?usp=sharing) | |
-|15/10/2024        | [Bibliotecas: NumPy Parte 2: funções](https://colab.research.google.com/drive/1uj-sqjbWXfat0ZUqMKZVoN22iRp2YEFZ?usp=sharing)| []() | |
+|15/10/2024        | [Bibliotecas: NumPy Parte 1: Métodos](https://colab.research.google.com/drive/16uSXQqAI0sazEFw6Jj1a0ZU_1W2hpnB4)| [Resolvido](https://colab.research.google.com/drive/1hSgOuL-UkAT5FNlRm86eCy8HbrBjWuzV?usp=sharing) | [Regressão linear na base Florestas](https://colab.research.google.com/drive/1x_FhBVAsMVOquM1TTXBNhgNeb7WitYqg?usp=sharing)|
+|22/10/2024        | [Bibliotecas: NumPy Parte 2: funções](https://colab.research.google.com/drive/1uj-sqjbWXfat0ZUqMKZVoN22iRp2YEFZ?usp=sharing)| []() | |
 
