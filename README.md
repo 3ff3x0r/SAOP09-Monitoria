@@ -8,6 +8,7 @@
 
 Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR BUSINESS
 <BR><BR><BR>
+### Python Básico 1: Sintaxe e tipos de dados
 | Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
 |------------------|-----------------------|----------------------|--------------------|
 |17/09/2024        | [Python 1](https://colab.research.google.com/drive/1eieqtIzlTgcmB589Z-4P2kKIXrOA2e55)| [PDF](https://github.com/3ff3x0r/SAOP09-Monitoria/blob/main/Exercicios_01_respostas.pdf) | [Vídeo](https://youtu.be/shO5lt7XeWM)|
@@ -17,10 +18,25 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
  | |
 
 ----
+### Python Básico 2: Condicionais, Loops e Funções
+
 | Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
 |------------------|-----------------------|----------------------|--------------------|
 |01/10/2024        | [Condicionais](https://colab.research.google.com/drive/1QTnEVBWCTw_gbGqgy9ZaE02IirbKN2Gz?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/1DOtG52eB4cTTK9dQPkKuG7421rGGpI-Q?usp=sharing) | [Experimente animar uma figurinha usando Scratch](https://scratch.mit.edu/projects/editor/?tutorial=all)|
 |08/10/2024        | [Loops e funções](https://colab.research.google.com/drive/1-LTYtZs7uSx2g9EH48OQHKcVx-rsodi0?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/1uT4f71uTPT726xYb-wZiv2HF1fHOBy-I?usp=sharing) | |
-|15/10/2024        | [Bibliotecas: NumPy Parte 1: Métodos](https://colab.research.google.com/drive/16uSXQqAI0sazEFw6Jj1a0ZU_1W2hpnB4)| [Resolvido](https://colab.research.google.com/drive/1hSgOuL-UkAT5FNlRm86eCy8HbrBjWuzV?usp=sharing) | [Regressão linear na base Florestas](https://colab.research.google.com/drive/1x_FhBVAsMVOquM1TTXBNhgNeb7WitYqg?usp=sharing)|
-|22/10/2024        | [Bibliotecas: NumPy Parte 2: funções](https://colab.research.google.com/drive/1uj-sqjbWXfat0ZUqMKZVoN22iRp2YEFZ?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/12NgGsC_YKAv0Lv9Y76xLFXIld5b8b3SA?usp=sharing) | |
 
+----
+### Python para Data Science: Numpy, Pandas e Visualizações de Dados
+| Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
+|------------------|-----------------------|----------------------|--------------------|
+|15/10/2024        | [Parte 1: Métodos em NumPy](https://colab.research.google.com/drive/16uSXQqAI0sazEFw6Jj1a0ZU_1W2hpnB4)| [Resolvido](https://colab.research.google.com/drive/1hSgOuL-UkAT5FNlRm86eCy8HbrBjWuzV?usp=sharing) | [Regressão linear na base Florestas](https://colab.research.google.com/drive/1x_FhBVAsMVOquM1TTXBNhgNeb7WitYqg?usp=sharing)|
+|22/10/2024        | [Parte 2: Funções NunPy](https://colab.research.google.com/drive/1uj-sqjbWXfat0ZUqMKZVoN22iRp2YEFZ?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/12NgGsC_YKAv0Lv9Y76xLFXIld5b8b3SA?usp=sharing) | |
+|29/10/2024        | [Parte 3 Séries em Pandas](https://colab.research.google.com/drive/15_DUi3acw6gvb6PoUBoeWZGRkpdSh5aY?usp=sharing)|  | |
+|05/11/2024        | [Parte 4 Dataframes em Pandas]()|  | |
+|12/11/2024        | [Parte 5 Análise de Dados Exploratória]()|  | |
+
+----
+### Python para Data Science: Inferência Estatística com Scikit-learn
+| Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
+|------------------|-----------------------|----------------------|--------------------|
+|19/11/2024        | []()|  | |
