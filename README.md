@@ -31,8 +31,8 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 |------------------|-----------------------|----------------------|--------------------|
 |15/10/2024        | [Parte 1: Métodos em NumPy](https://colab.research.google.com/drive/16uSXQqAI0sazEFw6Jj1a0ZU_1W2hpnB4)| [Resolvido](https://colab.research.google.com/drive/1hSgOuL-UkAT5FNlRm86eCy8HbrBjWuzV?usp=sharing) | [Regressão linear na base Florestas](https://colab.research.google.com/drive/1x_FhBVAsMVOquM1TTXBNhgNeb7WitYqg?usp=sharing)|
 |22/10/2024        | [Parte 2: Funções NunPy](https://colab.research.google.com/drive/1uj-sqjbWXfat0ZUqMKZVoN22iRp2YEFZ?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/12NgGsC_YKAv0Lv9Y76xLFXIld5b8b3SA?usp=sharing) | |
-|29/10/2024        | [Parte 3 Séries em Pandas](https://colab.research.google.com/drive/15_DUi3acw6gvb6PoUBoeWZGRkpdSh5aY?usp=sharing)|  | |
-|05/11/2024        | [Parte 4 Dataframes em Pandas]()|  | |
+|29/10/2024        | [Parte 3 Séries em Pandas](https://colab.research.google.com/drive/15_DUi3acw6gvb6PoUBoeWZGRkpdSh5aY?usp=sharing)|  [Resolvido](https://colab.research.google.com/drive/1KCBmUAf4x9tP1RlkanTWlLslfogdXYLB?usp=sharing)| |
+|05/11/2024        | [Parte 4 Dataframes em Pandas](https://colab.research.google.com/drive/1d_kp-kGLQ2_V3sPVBp99sxUV16dWI9_Y?usp=sharing)|  | |
 |12/11/2024        | [Parte 5 Análise de Dados Exploratória]()|  | |
 
 ----
