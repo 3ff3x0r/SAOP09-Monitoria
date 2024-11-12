@@ -22,7 +22,7 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 
 | Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
 |------------------|-----------------------|----------------------|--------------------|
-|01/10/2024        | [Condicionais](https://colab.research.google.com/drive/1QTnEVBWCTw_gbGqgy9ZaE02IirbKN2Gz?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/1DOtG52eB4cTTK9dQPkKuG7421rGGpI-Q?usp=sharing) | [Experimente animar uma figurinha usando Scratch](https://scratch.mit.edu/projects/editor/?tutorial=all)|
+|01/10/2024        | [Condicionais](https://colab.research.google.com/drive/1QTnEVBWCTw_gbGqgy9ZaE02IirbKN2Gz?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/1DOtG52eB4cTTK9dQPkKuG7421rGGpI-Q?usp=sharing) | [Experimente usar o Scratch](https://scratch.mit.edu/projects/editor/?tutorial=all)|
 |08/10/2024        | [Loops e funções](https://colab.research.google.com/drive/1-LTYtZs7uSx2g9EH48OQHKcVx-rsodi0?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/1uT4f71uTPT726xYb-wZiv2HF1fHOBy-I?usp=sharing) | |
 
 ----
@@ -32,7 +32,7 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 |15/10/2024        | [Parte 1: Métodos em NumPy](https://colab.research.google.com/drive/16uSXQqAI0sazEFw6Jj1a0ZU_1W2hpnB4)| [Resolvido](https://colab.research.google.com/drive/1hSgOuL-UkAT5FNlRm86eCy8HbrBjWuzV?usp=sharing) | [Regressão linear na base Florestas](https://colab.research.google.com/drive/1x_FhBVAsMVOquM1TTXBNhgNeb7WitYqg?usp=sharing)|
 |22/10/2024        | [Parte 2: Funções NunPy](https://colab.research.google.com/drive/1uj-sqjbWXfat0ZUqMKZVoN22iRp2YEFZ?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/12NgGsC_YKAv0Lv9Y76xLFXIld5b8b3SA?usp=sharing) | |
 |29/10/2024        | [Parte 3 Séries em Pandas](https://colab.research.google.com/drive/15_DUi3acw6gvb6PoUBoeWZGRkpdSh5aY?usp=sharing)|  [Resolvido](https://colab.research.google.com/drive/1KCBmUAf4x9tP1RlkanTWlLslfogdXYLB?usp=sharing)| |
-|05/11/2024        | [Parte 4 Dataframes em Pandas](https://colab.research.google.com/drive/1d_kp-kGLQ2_V3sPVBp99sxUV16dWI9_Y?usp=sharing)|  | |
+|05/11/2024        | [Parte 4 Dataframes em Pandas](https://colab.research.google.com/drive/1d_kp-kGLQ2_V3sPVBp99sxUV16dWI9_Y?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/1jZ8aEpB_cGSLR11poO3Xp9NjsQJhcKfX?usp=sharing) | |
 |12/11/2024        | [Parte 5 Análise de Dados Exploratória]()|  | |
 
 ----
