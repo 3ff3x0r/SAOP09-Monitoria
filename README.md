@@ -34,9 +34,5 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 |29/10/2024        | [Parte 3: Séries em Pandas](https://colab.research.google.com/drive/15_DUi3acw6gvb6PoUBoeWZGRkpdSh5aY?usp=sharing)|  [Resolvido](https://colab.research.google.com/drive/1KCBmUAf4x9tP1RlkanTWlLslfogdXYLB?usp=sharing)| |
 |05/11/2024        | [Parte 4: Dataframes em Pandas](https://colab.research.google.com/drive/1d_kp-kGLQ2_V3sPVBp99sxUV16dWI9_Y?usp=sharing)| [Resolvido](https://colab.research.google.com/drive/1jZ8aEpB_cGSLR11poO3Xp9NjsQJhcKfX?usp=sharing) | |
 |12/11/2024        | [Parte 5: Análise de Dados Exploratória](https://colab.research.google.com/drive/1kjN7Dy1OwOsYt24JmCTZQZnb19MLsxCQ?usp=sharing)| [Disponível em 19/11](https://colab.research.google.com/drive/14cBCrL8OdQQOZQh6OOBflzA8qr0Ckdcq?usp=sharing)  | |
+|19/11/2024        | [Parte 6: Análise de Dados Exploratória]()| [Disponível em 26/11]()  | |
 
-----
-### Python para Data Science: Inferência Estatística com Scikit-learn
-| Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
-|------------------|-----------------------|----------------------|--------------------|
-|19/11/2024        | []()|  | |
