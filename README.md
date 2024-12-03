@@ -37,4 +37,4 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 |19/11/2024        | [Parte 6: Análise de Dados Exploratória](https://colab.research.google.com/drive/1dcaXn6NTuzQn0ncWQhf204Jl_CS0ZV-q?usp=sharing)| [Resolução](https://colab.research.google.com/drive/1GoIjHKKeF9cEmBOLrXt6JcJAyvT55FWL?usp=sharing)  | |
 |26/11/2024        | Resolução dos exercícios de 19/11|  |   |
 |03/12/2024        | Atendimento a dúvidas|  |   |
-|10/12/2024        | Atendimento a dúvidas|  |   |
+|10/12/2024        | Atendimento a dúvidas e encerramento das atividades de monitoria|  |   |
