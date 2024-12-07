@@ -6,7 +6,8 @@
 # SAOP09 - Monitoria
 <br>
 
-Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR BUSINESS
+Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR BUSINESS<BR>
+*O caderno de respostas pode ter leves diferenças em relação ao caderno de exercícios pois a resolução ocorreu durante os encontros de monitoria*
 <BR><BR><BR>
 ### Python Básico 1: Sintaxe e tipos de dados
 | Data do Encontro | Caderno de exercícios | Caderno de Respostas | Recurso multimídia |
