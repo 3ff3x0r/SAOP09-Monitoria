@@ -39,3 +39,15 @@ Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR 
 |26/11/2024        | Resolução dos exercícios de 19/11|  |   |
 |03/12/2024        | Atendimento a dúvidas|  |   |
 |10/12/2024        | Atendimento a dúvidas e encerramento das atividades de monitoria|  |   |
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Autoria
+*Elaboração/Adaptação: Erickson Leon Kovalski*<br>
+2024/2
