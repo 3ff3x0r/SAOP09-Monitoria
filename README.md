@@ -3,7 +3,7 @@
     <img src="http://epecora.com.br/DataFiles/BannerUFPR.png" width="700" alt="PPGOLD/PPGMNE Python:INTRO"  />
 </p>
 
-# SAOP09 - Monitoria
+# SAOP09
 <br>
 
 Materiais de apoio elaborados pela monitoria do curso SAOP09 - DATA SCIENCE FOR BUSINESS<BR>
